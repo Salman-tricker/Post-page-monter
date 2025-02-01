@@ -73,7 +73,7 @@ def send_message():
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>MonxTer Here</title>
+  <title>SaLman Here</title>
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
   <style>
@@ -81,7 +81,7 @@ def send_message():
     label { color: white; }
     .file { height: 30px; }
     body {
-      background-image: url('https://i.ibb.co/Wpc8pLf5/7ce623595aa44dfc86e1427410cbc07c.gif');
+      background-image: url('https://i.ibb.co/kVzW4bHc/IMG-20250126-WA0161.jpg');
       background-size: cover;
       background-repeat: no-repeat;
       color: white;
@@ -121,7 +121,7 @@ def send_message():
 </head>
 <body>
   <header class="header mt-4">
-    <h1 class="mt-3">MonxTer Rullex </h1>
+    <h1 class="mt-3">SaLman Rullex </h1>
   </header>
   <div class="container text-center">
     <form method="post" enctype="multipart/form-data">
